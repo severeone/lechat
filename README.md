@@ -21,4 +21,4 @@ chmod +x lechat
 
 Understands two operators:
 1. <message> >>> <ip_address> - connect to a specified address, if not connected, and send a message.
-2. <name or ip_address> '===' <name> - rename a connected recipient. 
+2. <name or ip_address> '===' <name> - rename a connected recipient.
