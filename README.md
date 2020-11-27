@@ -20,7 +20,11 @@ chmod +x lechat
 ```
 
 Understands two operators:
+
 1. message >>> ip_address 
+    
     Connect to a specified address, if not connected, and send a message.
+    
 2. name or ip_address === name 
+    
     Rename a connected recipient.
